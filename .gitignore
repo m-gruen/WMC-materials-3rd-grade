@@ -1,0 +1,11 @@
+000_Unterlagen
+.idea
+.vscode
+node_modules
+coverage
+*.js
+*.js.map
+!*.config.js
+dist
+!001_Testing_Node.js
+!001_Testing_Node.js/*.js

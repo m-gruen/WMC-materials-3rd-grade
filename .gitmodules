@@ -1,0 +1,9 @@
+[submodule "003_basic_functions"]
+	path = 003_basic_functions
+	url = .\\003_basic_functions\\
+[submodule "004_basic_training"]
+	path = 004_basic_training
+	url = .\\004_basic_training\\
+[submodule "005_Arrays_and_functions"]
+	path = 005_Arrays_and_functions
+	url = .\\005_Arrays_and_functions\\
