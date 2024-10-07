@@ -7,3 +7,9 @@
 [submodule "005_Arrays_and_functions"]
 	path = 005_Arrays_and_functions
 	url = .\\005_Arrays_and_functions\\
+[submodule ".\\003_basic_functions\\"]
+	url = https://github.com/2425-3AHIF-WMC/ts-01-basics-functions-m-gruen.git
+[submodule ".\\004_basic_training\\"]
+	url = https://github.com/2425-3AHIF-WMC/ts-02-more-basics-training-m-gruen.git
+[submodule ".\\005_Arrays_and_functions\\"]
+	url = https://github.com/2425-3AHIF-WMC/ts-03-arrays-and-functions-m-gruen.git
