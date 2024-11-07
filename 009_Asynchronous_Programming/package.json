@@ -1,0 +1,24 @@
+{
+  "name": "009_asynchronous_programming",
+  "version": "1.0.0",
+  "description": "asynchronous programming",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "@types/node": "^20.16.10",
+    "@types/uuid": "^10.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "typescript": "^5.6.2",
+    "uuid": "^10.0.0"
+  },
+  "author": "Mark",
+  "license": "ISC"
+}

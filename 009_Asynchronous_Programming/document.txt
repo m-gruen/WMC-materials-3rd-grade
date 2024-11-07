@@ -1,0 +1,10 @@
+This is a test file!
+
+Hello World!
+Hallo Welt!
+Bonjour le monde!
+Hola Mundo!
+Ciao Mondo!
+
+These are some lines of text.
+(End of file)
