@@ -13,3 +13,6 @@
 [submodule "008_Spawning_Enemies"]
 	path = 008_Spawning_Enemies
 	url = git@github.com:2425-3AHIF-WMC/ts-05-interfaces-m-gruen.git
+[submodule "010_Pokemon_API"]
+	path = 010_Pokemon_API
+	url = git@github.com:2425-3AHIF-WMC/ts-06-pokeapi-m-gruen.git
