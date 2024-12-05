@@ -1,0 +1,14 @@
+### Get the Hello World message
+GET http://localhost:3000/hello
+
+### Now, let's get Henry
+GET http://localhost:3000/henry
+
+### Let's greet someone
+GET http://localhost:3000/greetings/Henry
+
+### Let's greet someone else
+GET http://localhost:3000/greetings/David
+
+### Let's check the Root File
+GET http://localhost:3000/
