@@ -16,3 +16,6 @@
 [submodule "010_Pokemon_API"]
 	path = 010_Pokemon_API
 	url = git@github.com:2425-3AHIF-WMC/ts-06-pokeapi-m-gruen.git
+[submodule "012_Static_Webserver"]
+	path = 012_Static_Webserver
+	url = git@github.com:2425-3AHIF-WMC/api-01-static-hosting-m-gruen.git
