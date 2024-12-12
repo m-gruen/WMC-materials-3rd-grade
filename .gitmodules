@@ -22,3 +22,6 @@
 [submodule "014_Garage"]
 	path = 014_Garage
 	url = git@github.com:2425-3AHIF-WMC/api-02-garage-m-gruen.git
+[submodule "015_Quiz"]
+	path = 015_Quiz
+	url = git@github.com:2425-3AHIF-WMC/api-03-quiz-m-gruen.git
