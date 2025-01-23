@@ -28,3 +28,6 @@
 [submodule "016_Movie_Database"]
 	path = 016_Movie_Database
 	url = git@github.com:2425-3AHIF-WMC/api-04-moviedb-m-gruen.git
+[submodule "017_Creating_DB_Tables"]
+	path = 017_Creating_DB_Tables
+	url = git@github.com:2425-3AHIF-WMC/db-01-flights-m-gruen.git
