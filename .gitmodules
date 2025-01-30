@@ -31,3 +31,6 @@
 [submodule "017_Creating_DB_Tables"]
 	path = 017_Creating_DB_Tables
 	url = git@github.com:2425-3AHIF-WMC/db-01-flights-m-gruen.git
+[submodule "018_Simple_Queries"]
+	path = 018_Simple_Queries
+	url = git@github.com:2425-3AHIF-WMC/db-02-queries-1-m-gruen.git
