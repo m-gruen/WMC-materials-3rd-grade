@@ -34,3 +34,6 @@
 [submodule "018_Simple_Queries"]
 	path = 018_Simple_Queries
 	url = git@github.com:2425-3AHIF-WMC/db-02-queries-1-m-gruen.git
+[submodule "019_Complex_Queries"]
+	path = 019_Complex_Queries
+	url = git@github.com:2425-3AHIF-WMC/db-03-queries-2-m-gruen.git
