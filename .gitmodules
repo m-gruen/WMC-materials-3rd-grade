@@ -37,3 +37,6 @@
 [submodule "019_Complex_Queries"]
 	path = 019_Complex_Queries
 	url = git@github.com:2425-3AHIF-WMC/db-03-queries-2-m-gruen.git
+[submodule "020_self_hosted_e2e_messenger"]
+	path = 020_self_hosted_e2e_messenger
+	url = git@github.com:2425-3AHIF-WMC/self-hosted-e2e-messenger.git
