@@ -40,3 +40,6 @@
 [submodule "020_self_hosted_e2e_messenger"]
 	path = 020_self_hosted_e2e_messenger
 	url = git@github.com:2425-3AHIF-WMC/self-hosted-e2e-messenger.git
+[submodule "021_Flight_Management"]
+	path = 021_Flight_Management
+	url = git@github.com:2425-3AHIF-WMC/db-04-flight-mgmt-m-gruen.git
